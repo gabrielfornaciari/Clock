@@ -9,7 +9,7 @@
             "Url": "https://github.com/gabrielfornaciari"
         }
     ],
-    "Website": "",
+    "Website": "https://legacy.curseforge.com/hytale/mods/clock",
     "ServerVersion": "*",
     "Dependencies": {
         "Hytale:EntityModule": "*",
