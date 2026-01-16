@@ -1,0 +1,9 @@
+Group #ClockHud {
+    LayoutMode: Left;
+    Anchor: (Left: 400, Bottom: 40, Height: 72, Width: 128);
+    Padding: (Full: 20);
+    Label #MyLabel {
+        Style: (FontSize: 32, Alignment: Center);
+        Text: "MyText";
+    }
+}

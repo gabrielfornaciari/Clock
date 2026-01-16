@@ -1,0 +1,24 @@
+{
+    "Group": "GabrielForno",
+    "Name": "Clock",
+    "Version": "1.0.0",
+    "Description": "",
+    "Authors": [
+        {
+            "Name": "GabrielForno",
+            "Url": "https://github.com/gabrielfornaciari"
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        "Hytale:EntityModule": "*",
+        "Hytale:AssetModule": "*"
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "br.com.gabrielforno.clock.Clock",
+    "IncludesAssetPack": true
+}
