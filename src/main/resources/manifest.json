@@ -2,14 +2,14 @@
     "Group": "GabrielForno",
     "Name": "Clock",
     "Version": "1.0.1",
-    "Description": "",
+    "Description": "Simple clock that sits in the bottom left corner of your screen",
     "Authors": [
         {
             "Name": "GabrielForno",
             "Url": "https://github.com/gabrielfornaciari"
         }
     ],
-    "Website": "https://legacy.curseforge.com/hytale/mods/clock",
+    "Website": "https://www.curseforge.com/hytale/mods/clock",
     "ServerVersion": "*",
     "Dependencies": {
         "Hytale:EntityModule": "*",
