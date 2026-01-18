@@ -18,7 +18,7 @@ ext {
 
 jar {
     archiveBaseName = 'Clock'
-    archiveVersion = '1.0.0-RELEASE'
+    archiveVersion = '1.0.1-RELEASE'
     archiveClassifier = ''
 }
 
